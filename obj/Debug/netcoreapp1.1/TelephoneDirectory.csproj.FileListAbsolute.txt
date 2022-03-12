@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\bin\Debug\netcoreapp1.1\TelephoneDirectory.deps.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\bin\Debug\netcoreapp1.1\TelephoneDirectory.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\bin\Debug\netcoreapp1.1\TelephoneDirectory.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\bin\Debug\netcoreapp1.1\TelephoneDirectory.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\bin\Debug\netcoreapp1.1\TelephoneDirectory.pdb
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\obj\Debug\netcoreapp1.1\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\obj\Debug\netcoreapp1.1\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\obj\Debug\netcoreapp1.1\TelephoneDirectory.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\TelephoneDirectory\obj\Debug\netcoreapp1.1\TelephoneDirectory.pdb
